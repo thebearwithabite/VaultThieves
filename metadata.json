@@ -1,0 +1,9 @@
+{
+  "name": "Obsidian Multi-Model Bridge",
+  "description": "A powerful multi-connector that bridges Gemini, GPT, and Claude models directly to your Obsidian workflow. Compose notes with AI and export them as clean Markdown with YAML frontmatter.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
